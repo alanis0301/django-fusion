@@ -2,10 +2,10 @@ from django import forms
 from django.core.mail.message import EmailMessage
 
 class ContatoForm(forms.Form):
-    nome = forms.CharField(label='Nome', max_length=100)
-    email = forms.EmailField(label='Email', max_length=100)
-    assunto = forms.CharField(label='Assunto', max_length=100)
-    mensagem = forms.CharField(label='Mensagem', widget=forms.Textarea())
+    nome = forms.CharField(label='Name', max_length=100)
+    email = forms.EmailField(label='E-mail', max_length=100)
+    assunto = forms.CharField(label='Subject', max_length=100)
+    mensagem = forms.CharField(label='Your message', widget=forms.Textarea())
 
     def send_mail(self):
         nome = self.cleaned_data['nome']

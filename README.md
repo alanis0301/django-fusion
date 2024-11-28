@@ -17,3 +17,9 @@ Visão geral:
   ![Captura de tela 2024-11-27 234014](https://github.com/user-attachments/assets/52c872d0-effd-4906-a632-26a772e79ba5)
 - Contatos:
   ![Captura de tela 2024-11-27 234025](https://github.com/user-attachments/assets/d5deb530-fc78-49a3-a3cf-7ac93e3fc419)
+
+Django-admin:
+
+![Captura de tela 2024-11-28 000042](https://github.com/user-attachments/assets/cfd9f7f2-527e-4d8d-ab9d-a1d52f495bae)
+
+
